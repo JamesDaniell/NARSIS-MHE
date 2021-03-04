@@ -56,7 +56,7 @@ The components section describes various relevant site components. Each componen
 In the logic area, hazards and components are combined. Selecting a component allows to inspect the return periods at which a hazard is reach its impact thresholds. 
 A linear hazard combination is based upon 2 assumptions:
 - A primary hazard already occurred
-- other hazards may take place in a specified time-window after the primary hazard occurrance. 
+- other hazards may take place in a specified time-window after the primary hazard occurrence. 
 
 Both primary hazard and time window can be selected by the user. The software automatically recommends a primary hazard depending on which hazard will reach the component's impact threshold first.
 Click on "Compute" to calculate the linear combination.
